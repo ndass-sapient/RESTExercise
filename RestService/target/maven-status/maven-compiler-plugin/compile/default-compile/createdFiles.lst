@@ -1,0 +1,11 @@
+com\restservice\internal\RestServiceImpl.class
+com\soapclient\AddIntegersResponse.class
+com\soapclient\MathUtility.class
+com\soapclient\ObjectFactory.class
+com\restservice\model\Calculator.class
+com\soapclient\FactorialResponse.class
+com\soapclient\Factorial.class
+com\restservice\RestService.class
+com\soapclient\MathUtilityService.class
+com\soapclient\AddIntegers.class
+com\restservice\dao\CalculatorDAO.class
